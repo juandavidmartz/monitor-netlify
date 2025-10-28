@@ -91,5 +91,19 @@
         "image_urls": [
             "data/images/8d697983-443e-40ff-b8dc-8b38c9cb2309-0.jpg"
         ]
+    },
+    {
+        "title": "Tuali incorporó mejoras en navegación",
+        "link": "https://itahora.com/2025/10/28/tuali-incorporo-mejoras-en-navegacion/",
+        "link_norm": "https://itahora.com/2025/10/28/tuali-incorporo-mejoras-en-navegacion",
+        "fecha_publicacion": "2025-10-28T18:21:46.667453-05:00",
+        "source": "itahora.com",
+        "authors": "",
+        "descripcion": "Arca Continental realizó el lanzamiento de la nueva versión de Tuali, una herramienta avanzada para que sus clientes mejoren su competitividad. Tuali es una plataforma omnicanal que integra en un solo espacio todas las herramientas necesarias para el día a día del negocio: pedidos 24/7, buscador inteligente, portafolio multicategoría con productos de las marcas de […]",
+        "sentimiento": "Positivo",
+        "valor_sentimiento": 0.54,
+        "keyword": "ARCA Continental",
+        "summary": "Arca Continental realizó el lanzamiento de la nueva versión de Tuali, una herramienta avanzada para que sus clientes mejoren su competitividad. Tuali es una plataforma omnicanal que integra en un solo espacio todas las herramientas necesarias para el día a día del negocio: pedidos 24/7, buscador inteligente, portafolio multicategoría con productos de las marcas de la familia Coca-Cola, TONI, Topsy, Inalecsa y nuestras aliadas líneas complementarias, promociones personalizadas, soporte humano y digital. Su diseño combina simplicidad, rapidez y acompañamiento constante, ayudando a los tenderos a vender más y gestionar mejor sus operaciones.",
+        "alert_id": "a38aa01d-68db-4e3c-90ec-034f2e81b219"
     }
 ]
