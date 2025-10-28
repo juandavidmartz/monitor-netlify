@@ -116,5 +116,29 @@
         "image_urls": [
             "/data/images/f10517b8-c08e-4d7d-b82b-98c3b9975361-0.jpg"
         ]
+    },
+    {
+        "title": "12345",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T13:56:14.049140-05:00",
+        "source": "Hogar",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.63,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "La inestabilidad política en Ecuador frena el desarrollo minero, mientras que Perú, con un marco legal estable y sin impuestos a la salida de capitales, atrae significativamente más inversión. En 2024, Perú recibió diez veces más inversión minera que Ecuador, con exportaciones 15 veces mayores. Para atraer inversión, Ecuador necesita estabilidad política o políticas de Estado que impulsen la industria.",
+        "page_number": "3",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 664000,
+        "valor_excel": null,
+        "freepress_excel": 362.5,
+        "audiencia": "664.000",
+        "valor_freepress": "USD $362,50",
+        "alert_id": "ee560696-c339-4918-aa56-a5eda6c129cb",
+        "image_urls": [
+            "/data/images/ee560696-c339-4918-aa56-a5eda6c129cb-0.jpg"
+        ]
     }
 ]
