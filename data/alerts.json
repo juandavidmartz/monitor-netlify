@@ -22,5 +22,26 @@
         "image_urls": [
             "data/images/48968ab0-6ae8-437c-8215-ea6b41efca0b-0.jpg"
         ]
+    },
+    {
+        "title": "Compensación por el diésel: Gobierno realiza primer desembolso por $ 2,6 millones para transportistas comerciales  | Economía | Noticias | El Universo",
+        "link": "https://www.eluniverso.com/noticias/economia/26-millones-compensacion-bono-subsidio-diesel-transportistas-comerciales-gobierno-ecuador-2025-nota/",
+        "link_norm": "https://eluniverso.com/noticias/economia/26-millones-compensacion-bono-subsidio-diesel-transportistas-comerciales-gobierno-ecuador-2025-nota",
+        "fecha_publicacion": "2025-10-28T12:55:21.610162-05:00",
+        "source": "El Universo",
+        "authors": "",
+        "descripcion": "10.025 transportistas de carga pesada, transporte escolar e institucional fueron beneficiados. Se espera llegar a 53.000.",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.68,
+        "keyword": "Pruebas",
+        "summary": "El Gobierno realizó el primer pago de $ 2,6 millones en incentivos productivos para transportistas comerciales, informó este martes, 28 de octubre, el Ministerio de Infraestructura y Transporte, a través de un comunicado. Estos pagos, que se realizaron mediante transferencias bancarias y por ventanillas, se otorgaron por la reforma al precio del diésel automotor.",
+        "tier": NaN,
+        "lugar": "Nacional",
+        "audiencia_excel": 61000,
+        "valor_excel": 1116.0,
+        "freepress_excel": 3348.0,
+        "audiencia": "61.000",
+        "valor_freepress": "USD $3.348,00",
+        "alert_id": "8276cd67-fba7-4a68-95da-2e30f2cd20ac"
     }
 ]
