@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "title": "12345",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T14:12:36.790081-05:00",
+        "source": "El Diario (Ediasa)",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.63,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "12345",
+        "page_number": "1234",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 200000,
+        "valor_excel": null,
+        "freepress_excel": 240.0,
+        "audiencia": "200.000",
+        "valor_freepress": "USD $240,00",
+        "alert_id": "e2ae51bc-7750-47ef-9534-8520c9b1d2a7",
+        "image_urls": [
+            "/data/images/e2ae51bc-7750-47ef-9534-8520c9b1d2a7-0.jpg"
+        ]
+    }
+]
