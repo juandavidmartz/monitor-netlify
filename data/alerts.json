@@ -22,5 +22,26 @@
         "image_urls": [
             "/data/images/e2ae51bc-7750-47ef-9534-8520c9b1d2a7-0.jpg"
         ]
+    },
+    {
+        "title": "Se sumergió en el mundo corporativo en Argentina, Chile y México, lo dejó y ahora se declara un soñador",
+        "link": "https://www.forbes.com.ec/liderazgo/se-sumergio-mundo-corporativo-argentina-chile-mexico-lo-dejo-ahora-declara-sonador-n80580",
+        "link_norm": "https://forbes.com.ec/liderazgo/se-sumergio-mundo-corporativo-argentina-chile-mexico-lo-dejo-ahora-declara-sonador-n80580",
+        "fecha_publicacion": "2025-10-28T14:18:49.246757-05:00",
+        "source": "Forbes",
+        "authors": "",
+        "descripcion": "El ecuatoriano Juan Xavier García trabajó en el mundo de la aviación y luego hizo carrera en Bimbo durante 16 años. En esa multinacional del sector de alimentos ocupó cargos directivos regionales y globales. Hoy emprende en el mundo de la consultoría.",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.5,
+        "keyword": "Pruebas",
+        "summary": "El ecuatoriano Juan Xavier García trabajó en el mundo de la aviación y luego hizo carrera en Bimbo durante 16 años. En esa multinacional del sector de alimentos ocupó cargos directivos regionales y globales. Hoy emprende en el mundo de la consultoría.",
+        "tier": null,
+        "lugar": "Nacional",
+        "audiencia_excel": 675867,
+        "valor_excel": 1500.0,
+        "freepress_excel": 4500.0,
+        "audiencia": "675.867",
+        "valor_freepress": "USD $4.500,00",
+        "alert_id": "5f62727a-8a1b-4745-a2b5-4a4139c4f0b9"
     }
 ]
