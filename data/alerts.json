@@ -129,5 +129,29 @@
         "image_urls": [
             "data/images/95af9132-5e24-4fa8-959e-d86845f32876-0.jpg"
         ]
+    },
+    {
+        "title": "Perú blinda la inversión minera y opaca a Ecuador",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T18:39:27.788215-05:00",
+        "source": "América Economía",
+        "sentimiento": "Negativo",
+        "valor_sentimiento": -0.86,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "La inestabilidad política en Ecuador frena el desarrollo minero, mientras que Perú, con un marco legal estable y sin impuestos a la salida de capitales, atrae significativamente más inversión. En 2024, Perú recibió diez veces más inversión minera que Ecuador, con exportaciones 15 veces mayores. Para atraer inversión, Ecuador necesita estabilidad política o políticas de Estado que impulsen la industria.",
+        "page_number": "9",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 664000,
+        "valor_excel": null,
+        "freepress_excel": 530.0,
+        "audiencia": "664.000",
+        "valor_freepress": "USD $530,00",
+        "alert_id": "d19fc2ab-3256-40ac-af5e-478f0cb4c6f4",
+        "image_urls": [
+            "data/images/d19fc2ab-3256-40ac-af5e-478f0cb4c6f4-0.jpg"
+        ]
     }
 ]
