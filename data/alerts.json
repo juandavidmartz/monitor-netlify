@@ -140,5 +140,29 @@
         "image_urls": [
             "/data/images/ee560696-c339-4918-aa56-a5eda6c129cb-0.jpg"
         ]
+    },
+    {
+        "title": "Wer",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T13:59:20.740684-05:00",
+        "source": "Vistazo Cuenca",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.53,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "Wers",
+        "page_number": "1",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 664000,
+        "valor_excel": null,
+        "freepress_excel": 2820.0,
+        "audiencia": "664.000",
+        "valor_freepress": "USD $2.820,00",
+        "alert_id": "c8cdec15-7526-4dcd-8003-071ea9072b56",
+        "image_urls": [
+            "/data/images/c8cdec15-7526-4dcd-8003-071ea9072b56-0.jpg"
+        ]
     }
 ]
