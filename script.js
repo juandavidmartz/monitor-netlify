@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 2. Cargar el archivo maestro de datos
-    fetch('data/alerts.json')
+    fetch('/data/alerts.json')
         .then(response => response.json())
         .then(alerts => {
             // 3. Encontrar la alerta específica por su ID
