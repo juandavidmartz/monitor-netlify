@@ -67,5 +67,29 @@
         "image_urls": [
             "/data/images/64ab9d8b-3706-4de7-a4be-e968bfc4ad65-0.jpg"
         ]
+    },
+    {
+        "title": "Una veintena de empresas privadas pagarán el décimo por adelantado",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T18:07:27.610924-05:00",
+        "source": "Vistazo",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.8,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "Al menos 23 empresas privadas, principalmente de los sectores financiero, de alimentos, logística y comercio, adelantarán el pago del décimo tercer sueldo hasta el 14 de noviembre. Esta medida, impulsada por el Gobierno, busca inyectar liquidez a los hogares antes de fechas comerciales importantes.",
+        "page_number": "5",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 664000,
+        "valor_excel": null,
+        "freepress_excel": 447.5,
+        "audiencia": "664.000",
+        "valor_freepress": "USD $447,50",
+        "alert_id": "8d697983-443e-40ff-b8dc-8b38c9cb2309",
+        "image_urls": [
+            "data/images/8d697983-443e-40ff-b8dc-8b38c9cb2309-0.jpg"
+        ]
     }
 ]
