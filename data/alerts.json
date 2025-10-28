@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "title": "465465",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T12:53:22.569964-05:00",
+        "source": "Vistazo 500 empresas",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.71,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "4654645",
+        "page_number": "45",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 664000,
+        "valor_excel": null,
+        "freepress_excel": 2250.0,
+        "audiencia": "664.000",
+        "valor_freepress": "USD $2.250,00",
+        "alert_id": "48968ab0-6ae8-437c-8215-ea6b41efca0b",
+        "image_urls": [
+            "data/images/48968ab0-6ae8-437c-8215-ea6b41efca0b-0.jpg"
+        ]
+    }
+]
