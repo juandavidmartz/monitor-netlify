@@ -105,5 +105,29 @@
         "keyword": "ARCA Continental",
         "summary": "Arca Continental realizó el lanzamiento de la nueva versión de Tuali, una herramienta avanzada para que sus clientes mejoren su competitividad. Tuali es una plataforma omnicanal que integra en un solo espacio todas las herramientas necesarias para el día a día del negocio: pedidos 24/7, buscador inteligente, portafolio multicategoría con productos de las marcas de la familia Coca-Cola, TONI, Topsy, Inalecsa y nuestras aliadas líneas complementarias, promociones personalizadas, soporte humano y digital. Su diseño combina simplicidad, rapidez y acompañamiento constante, ayudando a los tenderos a vender más y gestionar mejor sus operaciones.",
         "alert_id": "a38aa01d-68db-4e3c-90ec-034f2e81b219"
+    },
+    {
+        "title": "Perú blinda la inversión minera y opaca a Ecuador",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T18:32:48.576761-05:00",
+        "source": "La Marea (Ediasa)",
+        "sentimiento": "Negativo",
+        "valor_sentimiento": -0.86,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "La inestabilidad política en Ecuador frena el desarrollo minero, mientras que Perú, con un marco legal estable y sin impuestos a la salida de capitales, atrae significativamente más inversión. En 2024, Perú recibió diez veces más inversión minera que Ecuador, con exportaciones 15 veces mayores. Para atraer inversión, Ecuador necesita estabilidad política o políticas de Estado que impulsen la industria.",
+        "page_number": "6",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 180000,
+        "valor_excel": null,
+        "freepress_excel": 204.0,
+        "audiencia": "180.000",
+        "valor_freepress": "USD $204,00",
+        "alert_id": "95af9132-5e24-4fa8-959e-d86845f32876",
+        "image_urls": [
+            "data/images/95af9132-5e24-4fa8-959e-d86845f32876-0.jpg"
+        ]
     }
 ]
