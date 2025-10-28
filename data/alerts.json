@@ -43,5 +43,29 @@
         "audiencia": "675.867",
         "valor_freepress": "USD $4.500,00",
         "alert_id": "5f62727a-8a1b-4745-a2b5-4a4139c4f0b9"
+    },
+    {
+        "title": "Quer",
+        "link": "",
+        "link_norm": "",
+        "fecha_publicacion": "2025-10-28T18:01:10.058455-05:00",
+        "source": "Vistazo 500 empresas",
+        "sentimiento": "Neutral",
+        "valor_sentimiento": 0.5,
+        "keyword": "Pruebas",
+        "is_print_media": true,
+        "summary": "Jeieibd",
+        "page_number": "2",
+        "lugar": null,
+        "tier": null,
+        "audiencia_excel": 664000,
+        "valor_excel": null,
+        "freepress_excel": 4800.0,
+        "audiencia": "664.000",
+        "valor_freepress": "USD $4.800,00",
+        "alert_id": "64ab9d8b-3706-4de7-a4be-e968bfc4ad65",
+        "image_urls": [
+            "/data/images/64ab9d8b-3706-4de7-a4be-e968bfc4ad65-0.jpg"
+        ]
     }
 ]
